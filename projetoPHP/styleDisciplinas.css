@@ -1,0 +1,52 @@
+tr {
+  border: 1px solid black;
+}
+td {
+  border: 1px solid black;
+  text-align: center;
+  border-radius: 25px;
+  background: #f5effb;
+  padding: 0.5em;
+}
+th {
+  font-size: 130%;
+  color: purple;
+  padding: 0.5em;
+}
+table {
+  border-radius: 25px;
+  font-weight: bold;
+  margin: auto;
+  border-spacing: 10px;
+}
+div {
+  width: 50%;
+  margin: auto;
+}
+.title {
+  margin: auto;
+  text-align: center;
+  padding: 0 0 1em 0;
+  color: purple;
+}
+a:link {
+  color: purple;
+}
+a:visited {
+  color: #ff1493;
+}
+a:hover,
+a:focus {
+  color: #00bfff;
+}
+button {
+  font: 120% arial;
+  border: 1px solid;
+  border-radius: 25px;
+  width: 200px;
+  height: 50px;
+  padding: 3px 0 3px 0;
+  cursor: pointer;
+  background: purple;
+  color: #fff;
+}

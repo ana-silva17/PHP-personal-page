@@ -1,0 +1,73 @@
+#container {
+  text-align: left;
+  width: 50%;
+  padding: 0.5em;
+  margin: auto;
+}
+.form_title {
+  font: 20px "century gothic", arial, sans-serif;
+  color: purple;
+  margin: 0 0 15px 0;
+  padding: 15px 0 5px 0;
+  text-align: center;
+}
+.error {
+  font-size: 90%;
+  color: red;
+}
+
+.content {
+  padding: 0 0 20px 0;
+  display: flex;
+}
+.buttonSubmitDiv {
+  text-align: center;
+  width: 50%;
+  padding: 0.5em;
+  margin: auto;
+}
+.submit {
+  font: 100% arial;
+  border: 1px solid;
+  width: 100px;
+  margin: 5 200px;
+  height: 33px;
+  padding: 2px 0 3px 0;
+  cursor: pointer;
+  background: purple;
+  color: #fff;
+}
+.label_settings {
+  font-size: 160%;
+  font-weight: bold;
+  color: purple;
+  text-align: left;
+}
+.form_settings label,
+.contact_textarea {
+  float: left;
+  width: 25%;
+  height: 40px;
+}
+.contact_textarea {
+  height: 100px;
+}
+.form_settings input,
+.contact_textarea {
+  padding: 5px;
+  width: 50%;
+  font: Arial;
+  border: 1px solid black;
+  background: #f5effb;
+}
+.form_settings .submit {
+  font: 100% arial;
+  border: 1px solid;
+  width: 100px;
+  margin: 5 200px;
+  height: 33px;
+  padding: 2px 0 3px 0;
+  cursor: pointer;
+  background: purple;
+  color: #fff;
+}

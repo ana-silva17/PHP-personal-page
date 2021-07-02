@@ -1,0 +1,35 @@
+#block {
+  text-align: justify;
+  margin: auto;
+  border: 2px solid black;
+  border-radius: 25px;
+  background: #f5effb;
+  width: 50%;
+  padding: 2em;
+  margin-bottom: 1em;
+}
+h2 {
+  color: purple;
+  text-align: center;
+  text-shadow: 2px 3px 0 pink;
+  margin: 1em 1em;
+}
+dt {
+  font-size: 130%;
+  font-weight: bold;
+  padding: 0 0 1em 0;
+}
+li {
+  padding: 0 0 1em 0;
+}
+.submit {
+  font: 100% arial;
+  border: 1px solid;
+  width: 100px;
+  margin: 5 200px;
+  height: 33px;
+  padding: 2px 0 3px 0;
+  cursor: pointer;
+  background: purple;
+  color: #fff;
+}
